@@ -10,11 +10,11 @@ This project aims to visualize the number of page views on English Wikipedia fro
 The data was retrieved using the different endpoints of an API developed by the Wikimedia Foundation that serves analytical data.
 
 #### Terms and conditions
-* [Wikimedia Foundation REST API terms of use](https://www.mediawiki.org/wiki/Wikimedia_REST_API#Terms_and_conditions){:target="_blank"}
+* [Wikimedia Foundation REST API terms of use](https://www.mediawiki.org/wiki/Wikimedia_REST_API#Terms_and_conditions)
 
 #### Documentation and endpoints
-* [Legacy Pagecounts Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts){:target="_blank"} and  [Legacy Pagecount Endpoint](https://wikimedia.org/api/rest_v1/#/Legacy%20data){:target="_blank"}
-[Pageviews Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews){:target="_blank"} and [Pageviews Endpoint](https://wikimedia.org/api/rest_v1/#/Pageviews%20data){:target="_blank"}
+* [Legacy Pagecounts Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts) and  [Legacy Pagecount Endpoint](https://wikimedia.org/api/rest_v1/#/Legacy%20data)
+[Pageviews Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews) and [Pageviews Endpoint](https://wikimedia.org/api/rest_v1/#/Pageviews%20data)
 
 #### Description of the cleaned data
 a description of values of all fields in your final data file.
