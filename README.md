@@ -29,7 +29,7 @@ This project aims to visualize the number of page views on English Wikipedia fro
 The data was retrieved using the different endpoints of an API developed by the Wikimedia Foundation that serves analytical data.
 
 #### License
-[License of the source data](https://creativecommons.org/publicdomain/zero/1.0/)
+* [License of the source data](https://creativecommons.org/publicdomain/zero/1.0/)
 
 #### Terms and conditions
 * [Wikimedia Foundation REST API terms of use](https://www.mediawiki.org/wiki/Wikimedia_REST_API#Terms_and_conditions)
